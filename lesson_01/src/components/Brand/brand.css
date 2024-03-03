@@ -1,0 +1,9 @@
+.row__brand {
+  background: #4350af;
+  color: white;
+  text-align: center;
+  border: 1px solid black;
+}
+.row__brand td {
+  padding: 5px;
+}
