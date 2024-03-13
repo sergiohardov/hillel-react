@@ -1,3 +1,5 @@
+import Todos from "./components/Todos/Todos";
+
 export default function App() {
-  return <div>App</div>;
+  return <Todos />;
 }

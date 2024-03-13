@@ -1,0 +1,25 @@
+input {
+  width: 100%;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  padding: 4px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+button {
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+.completed {
+  text-decoration: line-through;
+}
+.submit {
+  background: green;
+}
+.delete {
+  background: red;
+}
